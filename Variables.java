@@ -25,7 +25,8 @@ public class Variables {
     int x, y, z;
     x = y = z = 50;
     System.out.println(a+b+c);
-    System.out.println(x+y+z);
+    System.out.println(x + y + z);
+    System.out.println("name");
 
     }
 }
